@@ -1,1 +1,2 @@
-This is my first git file
+THis is my first repository
+My name is Naman Sharma
